@@ -49,7 +49,7 @@
  '(mode-line-emphasis                  ((t (                                             :weight bold                                  ))))
  '(mode-line-buffer-id                 ((t (                                             :box '(:inherit (mode-line)) :weight bold                         ))))
 
- '(mode-line-inactive                  ((t (:foreground "#bfbfbf"  :background "#242b30" :box nil :weight light :inherit (mode-line)   ))))
+ '(mode-line-inactive                  ((t (:foreground "#0e151b"  :background "#242b30" :box nil :weight light :inherit (mode-line)   ))))
 
  '(isearch                             ((t (:foreground "#99ccee"  :background "#444444"                                               ))))
  '(isearch-fail                        ((t (                       :background "#ffaaaa"                                               ))))
