@@ -44,12 +44,12 @@
  '(query-replace                       ((t (                                             :inherit (isearch)                            ))))
  '(header-line                         ((t (:foreground "#EEEEEE"  :background "#444444" :box nil :inherit (mode-line)                 ))))
 
+ '(mode-line                           ((t (:foreground "#efefef"  :background "#242b30" :box '(:line-width 6 :color "#00b7f0" :style nil)))))
  '(mode-line-highlight                 ((t (                                             :box nil                                      ))))
  '(mode-line-emphasis                  ((t (                                             :weight bold                                  ))))
- '(mode-line-buffer-id                 ((t (                                             :box nil :weight bold                         ))))
+ '(mode-line-buffer-id                 ((t (                                             :box '(:inherit (mode-line)) :weight bold                         ))))
 
  '(mode-line-inactive                  ((t (:foreground "#bfbfbf"  :background "#242b30" :box nil :weight light :inherit (mode-line)   ))))
- '(mode-line                           ((t (:foreground "#efefef"  :background "#242b30" :box nil ))))
 
  '(isearch                             ((t (:foreground "#99ccee"  :background "#444444"                                               ))))
  '(isearch-fail                        ((t (                       :background "#ffaaaa"                                               ))))
