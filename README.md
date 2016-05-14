@@ -1,4 +1,22 @@
+## Glacier theme
+
 This is a port of [glacier-theme](https://github.com/shovelandsandbox/glacier-theme) in from Sublime Text to Emacs24+.
+
+
+## Installation
+
+### Spacemacs
+
+Add to your `dotspacemacs-additional-packages` in `~/.spacemacs`:
+
+```emacs-lisp
+dotspacemacs-additional-packages '(
+                                      (glacier-theme :location (recipe
+                                                     :fetcher github
+                                                     :repo "0x414A/glacier-theme")))
+
+```
+
 
 ## Preview
 
