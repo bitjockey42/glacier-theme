@@ -2,6 +2,7 @@
 ;;
 ;;; Author: Auto Converted to Emacs 24 by tmtheme-to-deftheme (tm2deftheme)
 ;;; Version: 1458791307
+;; Package-Version: 20160514.139
 ;;; Original author: Joey Figaro
 ;;; Url: https://github.com/emacsfodder/tmtheme-to-deftheme
 ;;; Package-Requires: ((emacs "24.0"))
@@ -44,10 +45,10 @@
  '(query-replace                       ((t (                                             :inherit (isearch)                            ))))
  '(header-line                         ((t (:foreground "#EEEEEE"  :background "#444444" :box nil :inherit (mode-line)                 ))))
 
- '(mode-line                           ((t (:foreground "#71808e"  :background "#242b30" :box '(:line-width 1 :style nil)))))
+ '(mode-line                           ((t (:foreground "#71808e"  :background "#242b30" :box nil))))
  '(mode-line-highlight                 ((t (                                             :box nil                                      ))))
  '(mode-line-emphasis                  ((t (                                             :weight bold                                  ))))
- '(mode-line-buffer-id                 ((t (                                             :box '(:inherit (mode-line)) :weight bold                         ))))
+ '(mode-line-buffer-id                 ((t (                                             :box nil :weight bold                         ))))
 
  '(mode-line-inactive                  ((t (:foreground "#0e151b"  :background "#242b30" :box nil :weight light :inherit (mode-line)   ))))
 
