@@ -20,4 +20,4 @@ dotspacemacs-additional-packages '(
 
 ## Preview
 
-<img width="972" alt="screen shot 2016-05-14 at 1 44 46 am" src="https://cloud.githubusercontent.com/assets/6130766/15266812/1c2a7f40-1976-11e6-95fa-54348f61a096.png">
+![screen shot 2016-05-15 at 5 23 15 pm](https://cloud.githubusercontent.com/assets/6130766/15277183/0b34d346-1ac2-11e6-9114-e813966a931c.png)
