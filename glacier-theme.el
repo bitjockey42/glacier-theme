@@ -29,7 +29,7 @@
  '(cursor  ((t (:background "#ffe792"))))
 
  ;; Temporary defaults
- '(linum                               ((t (:foreground "#3b4145"  :background "#242B30" ))))
+ '(linum                               ((t (:foreground "#3b4145"  :background "#0c1217" ))))
  '(fringe                              ((t (                       :background "#0c1217" ))))
 
  '(minibuffer-prompt                   ((t (:foreground "#1278A8"  :background nil       :weight bold                                  ))))
